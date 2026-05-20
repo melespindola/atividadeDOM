@@ -1,0 +1,10 @@
+
+#caixa-magica{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(199, 52, 167);
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
